@@ -1,6 +1,6 @@
 # Natural-Language-Processing-Porject-
 
-This repository contains code for a project, where I was largely tasked with comparing multiple different text vectorisation methods, and fine tuning a BERT model to achieve an accuracy of 97%,
+This repository contains code for a project, where I was largely tasked with comparing multiple different text vectorisation methods, and fine tuning a BERT model to achieve an accuracy of 95.8%,
 
 
 
